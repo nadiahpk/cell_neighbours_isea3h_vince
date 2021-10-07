@@ -10,7 +10,7 @@ The general method for projecting the grid onto the Earth's surface is the Inver
 
 The purpose of this code is to work with dggridR to quickly find the neighbours of each ISEA3H cell using a new indexing scheme. The scheme is adpated from Vince (2006). The code is at the just-get-something-working stage, and no attempt has been made to improveits efficiency.
 
-For more details, see [this blog post](https://nadiah.org/ "nadiah.org")
+For more details, see [this blog post](https://nadiah.org/2021/09/29/find-cell-neighbours-isea3h/ "nadiah.org")
 
 # Quick start guide
 
